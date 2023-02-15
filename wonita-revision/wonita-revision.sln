@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wonita-revision", "wonita-revision\wonita-revision.csproj", "{B93C5EAC-2FAF-4243-83FD-335BE5D3B573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLibrary", "MyClassLibrary\MyClassLibrary.csproj", "{FBCF2F97-6085-4DA6-BC92-0ADD534B7A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93C5EAC-2FAF-4243-83FD-335BE5D3B573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93C5EAC-2FAF-4243-83FD-335BE5D3B573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93C5EAC-2FAF-4243-83FD-335BE5D3B573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93C5EAC-2FAF-4243-83FD-335BE5D3B573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCF2F97-6085-4DA6-BC92-0ADD534B7A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCF2F97-6085-4DA6-BC92-0ADD534B7A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCF2F97-6085-4DA6-BC92-0ADD534B7A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCF2F97-6085-4DA6-BC92-0ADD534B7A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17B67837-2E99-4037-9348-E2A0C489A5DD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\bin\Debug\net6.0\wonita-revision.exe
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\bin\Debug\net6.0\wonita-revision.deps.json
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\bin\Debug\net6.0\wonita-revision.runtimeconfig.json
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\bin\Debug\net6.0\wonita-revision.dll
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\bin\Debug\net6.0\wonita-revision.pdb
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.csproj.AssemblyReference.cache
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.AssemblyInfoInputs.cache
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.AssemblyInfo.cs
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.csproj.CoreCompileInputs.cache
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.dll
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\refint\wonita-revision.dll
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.pdb
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\wonita-revision.genruntimeconfig.cache
+C:\Users\WonitaFebruary\source\repos\wonita-revision\wonita-revision\obj\Debug\net6.0\ref\wonita-revision.dll

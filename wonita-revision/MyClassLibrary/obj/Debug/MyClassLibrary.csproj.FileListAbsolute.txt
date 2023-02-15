@@ -1,0 +1,2 @@
+C:\Users\WonitaFebruary\source\repos\wonita-revision\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\WonitaFebruary\source\repos\wonita-revision\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
